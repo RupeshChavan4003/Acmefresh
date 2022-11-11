@@ -1,0 +1,32 @@
+.container {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.navMain {
+  background-color: #3b6c8a;
+  width: 99.5%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 3px;
+  color: aliceblue;
+}
+.right {
+  display: flex;
+  justify-content: space-evenly;
+  width: 30%;
+  align-items: center;
+  color: aliceblue;
+  margin-right: 10%;
+  /* border: 1px solid black; */
+}
+
+.left {
+  width: 150px;
+  margin-left: -15%;
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}

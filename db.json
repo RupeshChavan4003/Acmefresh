@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Arugula Seeds at ₹ 2/seed (MOQ 100)",
+      "price": "₹200",
+      "image": "https://risehydroponics.in/wp-content/uploads/2021/05/Argula-seeds.jpg",
+      "desc": "Batavia lettuce is also commonly known as the French crisp. It has thick, lush, crisp,  green, and dark red leaves with good flavor. It is easy to grow, relatively tolerant of hot weather, and slower bolting."
+    },
+    {
+      "id": 2,
+      "name": "Batavia Seeds",
+      "price": "₹250",
+      "image": "https://risehydroponics.in/wp-content/uploads/2021/05/batavia.jpg",
+      "desc": "Batavia lettuce is also commonly known as the French crisp. It has thick, lush, crisp,  green, and dark red leaves with good flavor. It is easy to grow, relatively tolerant of hot weather, and slower bolting."
+    },
+    {
+      "id": 3,
+      "name": "Broccoli Seeds at ₹ 2/seed (MOQ100)",
+      "price": "₹350",
+      "image": "https://risehydroponics.in/wp-content/uploads/2021/05/broccoli.jpeg",
+      "desc": "Broccoli, a member of the Cabbage family is rich in vitamins. Under normal conditions, the crop grows best when the daytime temp is about 60 F. Broccoli is heat tolerant but needs moisture."
+    },
+    {
+      "id": 4,
+      "name": "Butter Head -Green Seeds at ₹ 2/seed (MOQ 100)",
+      "price": "₹450",
+      "image": "https://risehydroponics.in/wp-content/uploads/2021/05/green-gead-seeds.jpg",
+      "desc": "Butterhead Green lettuces have soft, buttery-textured leaves that form very loose heads. They boast a mild, sweet, and succulent flavor."
+    },
+    {
+      "id": 5,
+      "name": "Butter Head -Red Seeds at ₹ 2/seed (MOQ 100)",
+      "price": "₹450",
+      "image": "https://risehydroponics.in/wp-content/uploads/2021/05/red-buteer-head.jpg",
+      "desc": "Lettuce Redhead is so easy to grow, so nutritious, and so delicious picked fresh from the garden, that everyone should grow them."
+    },
+    {
+      "id": 6,
+      "name": "Desi Coriander Seeds at ₹ 2/seed (MOQ100)",
+      "price": "₹260",
+      "image": "https://risehydroponics.in/wp-content/uploads/2021/05/Coriander3.jpg",
+      "desc": "Growing coriander at home is easy and fast also a great way to reap the benefits of coriander leaves and coriander seeds. The benefit of buying multi-cut coriander seeds is that you can harvest the leaves from 3 to 4 times from a single crop."
+    },
+    {
+      "id": 7,
+      "name": "Desi Palak -Green Seeds at ₹ 2/seed (MOQ100)",
+      "price": "₹360",
+      "image": "https://risehydroponics.in/wp-content/uploads/2021/05/palak4.jpg",
+      "desc": "Desi Palak grows well in all climates. Takes around 2-3 days to germinate and 30-40 days to harvest."
+    },
+    {
+      "id": 8,
+      "name": "Italian Basil -Hybrid Seeds at ₹ 2/seed (MOQ 100)",
+      "price": "₹480",
+      "image": "https://risehydroponics.in/wp-content/uploads/2021/05/basil_1024x1024.jpg",
+      "desc": "Italian Basil, which is related to the beloved Indian Tulsi, is really one of the most satisfying things to grow in your kitchen garden especially in India."
+    },
+    {
+      "id": 9,
+      "name": "Kale Seeds at ₹ 2/seed (MOQ 100)",
+      "price": "₹480",
+      "image": "https://risehydroponics.in/wp-content/uploads/2021/05/Kale.jpg",
+      "desc": "Grow Kale in your garden .you will be delighted to include Kale in your vegetable garden as it looks the most attractive of all the other vegetables."
+    },
+    {
+      "id": 10,
+      "name": "Locarno Seeds at ₹ 2/seed (MOQ 100)",
+      "price": "680",
+      "image": "https://risehydroponics.in/wp-content/uploads/2021/05/Locarno-seeds.jpg",
+      "desc": "The leaves are densely incised. Open headed, The base is more green when compared to standard varieties."
+    },
+    {
+      "id": 11,
+      "name": "Desi Palak -Green Seeds at ₹ 2/seed (MOQ100)",
+      "price": "₹360",
+      "image": "https://risehydroponics.in/wp-content/uploads/2021/05/palak4.jpg",
+      "desc": "Desi Palak grows well in all climates. Takes around 2-3 days to germinate and 30-40 days to harvest."
+    },
+    {
+      "id": 12,
+      "name": "Romaine Seeds at ₹ 2/seed (MOQ 100)",
+      "price": "₹460",
+      "image": "https://risehydroponics.in/wp-content/uploads/2021/05/romaine-seeds.jpg",
+      "desc": "Romaine Lettuce or long Lettuce in general is packed with nutrition. They grow straight upright with light green color and white texture."
+    }
+  ]
+}

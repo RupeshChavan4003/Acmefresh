@@ -1,0 +1,15 @@
+.gridMain {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 15px;
+  justify-items: center;
+  margin-bottom: 50px;
+}
+.heading {
+  font-weight: 600;
+  font-family: sans-serif;
+  font-size: 30px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
